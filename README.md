@@ -1,12 +1,13 @@
 ### Olá! Eu sou o Marcus Vinícius
 <hr>
-
-<div style="display:flex;">
+<div>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M4rcus-0&show_icons=true&theme=default&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&bg_color=45,f72585,000000,000000,4cc9f0&locale=pt-br)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M4rcus-0&hide_progress=true_locale=pt-br)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M4rcus-0&show_icons=true&theme=default&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=000000&bg_color=45,000000,f72585,4cc9f0,000000&locale=pt-br)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M4rcus-0&hide_progress=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=000000&bg_color=45,000000,4cc9f0,f72585,000000&locale=pt-br)
 
 </div>
+
+<hr>
 
 ### Algumas tecnologias que venho estudando recentemente
 
@@ -22,9 +23,6 @@
   <img alt="mysql" style="align:center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img alt="react" style="align:center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img alt="unity" style="align:center" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
-</div>
-<div>
-  
 </div>
 
 Amo gatos S2
