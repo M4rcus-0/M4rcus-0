@@ -3,7 +3,7 @@
 
 <div style="display:flex;">
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M4rcus-0&show_icons=true&theme=dark_locale=pt-br)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M4rcus-0&show_icons=true&theme=default&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&bg_color=45,f72585,000000,000000,4cc9f0&locale=pt-br)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M4rcus-0&hide_progress=true_locale=pt-br)
 
 </div>
