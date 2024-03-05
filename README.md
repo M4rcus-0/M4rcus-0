@@ -1,8 +1,8 @@
-### Olá! Eu sou o Marcus Vinícius
+### Olá! Eu sou o Marcus Vinícius!
 <hr>
 <div>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M4rcus-0&show_icons=true&theme=default&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=000000&bg_color=45,000000,f72585,4cc9f0,000000&locale=pt-br)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M4rcus-0&show_icons=true&theme=default&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=000000&bg_color=45,000000,f72585,4cc9f0,000000&locale=pt-br)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M4rcus-0&hide_progress=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=000000&bg_color=45,000000,4cc9f0,f72585,000000&locale=pt-br)
 
 </div>
@@ -24,5 +24,7 @@
   <img alt="react" style="align:center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img alt="unity" style="align:center" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
 </div>
+
+![Snake animation](https://github.com/M4rcus-0/M4rcus-0/blob/output/github-contribution-grid-snake.svg)
 
 Amo gatos S2
