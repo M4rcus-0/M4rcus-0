@@ -1,16 +1,17 @@
-### Hi there 👋
+### Olá! Eu sou o Marcus Vinícius
 
-<!--
-**M4rcus-0/M4rcus-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M4rcus-0&show_icons=true&theme=dark)
 
-Here are some ideas to get you started:
+### Algumas tecnologias que venho estudando recentemente
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display:inline_block">
+  <img alt="html5" style="align:center" src="">
+  <img alt="css" style="align:center" src="">
+  <img alt="js" style="align:center" src="">
+  <img alt="c" style="align:center" src="">
+  <img alt="python" style="align:center" src="">
+</div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M4rcus-0&hide_progress=true)
+
+# Amo gatos S2
