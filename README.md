@@ -20,6 +20,7 @@
 <hr>
 
 ### Algumas tecnologias que venho estudando recentemente
+<h2 align="center">Algumas ferramentas e linguagens que conheço</h2>
 
 <div style="display:inline_block;">
   <img alt="html5" style="align:center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -33,6 +34,11 @@
   <img alt="mysql" style="align:center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img alt="react" style="align:center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img alt="unity" style="align:center" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
+</div>
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,c,java,php,python,react" />
+    <img src="https://skillicons.dev/icons?i=vscode,github,figma,git,mysql" />
 </div>
 
 ![Snake animation](https://github.com/M4rcus-0/M4rcus-0/blob/output/github-contribution-grid-snake.svg)
