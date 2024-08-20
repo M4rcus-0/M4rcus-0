@@ -1,9 +1,11 @@
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=M4rcus-0.M4rcus-0" />
 
-<h1>
+<h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Salve!+;Meu nome é Marcus Vinícius!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Salve!;Meu+nome+é...;+Marcus+Vinícius!;" />
+</h1>
+
   </a>
 </h1>
 ### Olá! Eu sou o Marcus Vinícius!
