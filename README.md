@@ -24,6 +24,10 @@
     <img src="https://skillicons.dev/icons?i=vscode,github,figma,git,mysql" />
 </div>
 
+<div align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/M4rcus-0/M4rcus-0/output/github-contribution-grid-snake.svg" />
+</div>
+
 ![Snake animation](https://github.com/M4rcus-0/M4rcus-0/blob/output/github-contribution-grid-snake.svg)
 
 Amo gatos S2
