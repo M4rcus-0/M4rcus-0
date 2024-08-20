@@ -1,4 +1,7 @@
+<img align="left" src"https://visitor-badge.laobi.icu/badge?page=id=.M4rcus-0.M4rcus-0" />
+
 ### Olá! Eu sou o Marcus Vinícius!
+
 <hr>
 <div style="display: flex;justify-content: space-between; flex-direction: row;">
   
