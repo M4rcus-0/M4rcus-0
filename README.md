@@ -8,7 +8,6 @@
 
   </a>
 </h1>
-### Olá! Eu sou o Marcus Vinícius!
 
 <hr>
 <div style="display: flex;justify-content: space-between; flex-direction: row;">
