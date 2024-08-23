@@ -14,6 +14,13 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M4rcus-0&hide_progress=true&title_color=000&text_color=000&border_color=fff&bg_color=45,fff,f72585,4cc9f0,fff&locale=pt-br)
 
 </div>
+<h2 align="center">Status</h2>
+<br>
+<div style="display: flex;justify-content: space-between; flex-direction: row;>
+  <img width=390 src="https://github-readme-streak-stats-M4rcus-0.vercel.app/?user=M4rcus-0&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-M4rcus-0.vercel.app/api?username=M4rcus-0&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=325 align="center" src="https://github-readme-stats-M4rcus-0.vercel.app/api/top-langs/?username=M4rcus-0&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
 <h2 align="center">Algumas ferramentas e linguagens que conheço</h2>
 
@@ -22,10 +29,13 @@
     <img src="https://skillicons.dev/icons?i=vscode,github,figma,git,mysql" />
 </div>
 
+<h2>Minhas Contribuições</h2>
+
 <div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/M4rcus-0/M4rcus-0/output/github-contribution-grid-snake.svg" />
-</div>
+<div align="center">
 
-![Snake animation](https://github.com/M4rcus-0/M4rcus-0/blob/output/github-contribution-grid-snake.svg)
+
+
 
 Amo gatos S2
