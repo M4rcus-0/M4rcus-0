@@ -6,6 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Monospace&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Olá+devs!;Meu+nome+é+Marcus!;Seja+bem-vindo!;S2;" />
   </a>
 </h1>
+<br><br><br>
 
 <hr>
 <div style="display: flex;justify-content: space-between; flex-direction: row;">
