@@ -46,7 +46,7 @@
 
 <h2 align="center">Desenvolvimento Frontend</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,c,java,php,python,react,wordpress" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,wordpress,styledcomponents" />
 </div>
 <!-- react,bootstrap,css3,html5,sass,tailwind,npm,styledcomponents,yarn,wordpress -->
 
@@ -60,13 +60,14 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react" />
 </div>
-<!-- android,kotliin,reactnative -->
+<!-- android,kotlin,reactnative -->
 
+<!--
 <h2 align="center">Inteligência artificial e Aprendizado de máquina</h2>
 <div align="center">
   
 </div>
-<!--  -->
+-->
 
 <h2 align="center">Banco de dados</h2>
 <div align="center">
