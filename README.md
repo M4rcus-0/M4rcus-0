@@ -1,83 +1,41 @@
 <span align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:53354A,33:903749,66:E84545,100:2B2E4A&height=150&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:F2055C,100:03738C&height=150&section=header)
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:D92546,25:8C1B50,50:401D36,75:0A4359,100:049DBF&height=150&section=header)
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:F20544,25:F2055C,50:023059,75:03738C,100:04BFBF&height=150&section=header)
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:8C0335,25:26010F,50:040240,75:030A8C,100:020873&height=150&section=header)
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:730C02,25:D91604,50:9BB5BF,75:51768C,100:012840&height=150&section=header)
-
 </span>
-
 
 <!-- [![MasterHead](https:)](https:) //banner -->
 
-<!-- cores: 2B2E4A, E84545, 903749, 53354A // 15e5a6, 008080 -->
-<!-- cores: F20544, F2055C, 023059, 03738C, 04BFBF -->
-<!-- cores: 8C0335, 26010F, 040240, 030A8C, 020873 -->
-<!-- cores: 012840, 51768C, 9BB5BF, D91604, 730C02 -->
-<!-- cores: D92546, 8C1B50, 401D36, 0A4359, 049DBF -->
-
-<h1 align="center">
+<span align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=30&letterSpacing=0px&duration=3000&color=FFF&center=true&vCenter=true&width=900&lines=Hello+world!;I'm+Marcus+Vin%C3%ADcius!;I'm+19+years+old!;Welcome!+I+hope+you+like+it!;%3Ew%3C+S2)](https://git.io/typing-svg)
-  <span>
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=30&letterSpacing=0px&duration=3000&color=fff&center=true&vCenter=true&width=900&lines=Hello+world!;I'm+Marcus+Vin%C3%ADcius!;I'm+19+years+old!;Welcome!+I+hope+you+like+it!;%3Ew%3C+S2)](https://git.io/typing-svg)
   
-  ![visits](https://visit-counter.vercel.app/counter.png?page=M4rcus-0&s=20&c=903749&bg=00000000&no=5&ff=alien&tb=+visitors%3A+&ta=)  
-  </span>
-</h1>
+  ![visits](https://visit-counter.vercel.app/counter.png?page=M4rcus-0&s=20&c=fff&bg=00000000&no=5&ff=alien&tb=+visitors%3A+&ta=)  
+  
+</span>
 
 
 <h2 align="center">Status</h2>
 
-<div style="display:flex;justify-content:center;" align="center">
+<div align="center">
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M4rcus-0&show_icons=true&theme=default&count_private=true&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&border_radius=5&bg_color=45,53354A,903749,E84545,2B2E4A&locale=pt-br)
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M4rcus-0&show_icons=true&theme=default&count_private=true&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&border_radius=5&bg_color=45,D92546,8C1B50,401D36,0A4359,049DBF&locale=pt-br)
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M4rcus-0&show_icons=true&theme=default&count_private=true&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&border_radius=5&bg_color=45,F20544,F2055C,023059,03738C,04BFBF&locale=pt-br)
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M4rcus-0&show_icons=true&theme=default&count_private=true&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&border_radius=5&bg_color=45,8C0335,26010F,040240,030A8C,020873&locale=pt-br)
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M4rcus-0&show_icons=true&theme=default&count_private=true&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&border_radius=5&bg_color=45,730C02,D91604,9BB5BF,51768C,012840&locale=pt-br)
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M4rcus-0&title_color=fff&text_color=fff&hide_border=true&border_radius=5&bg_color=45,53354A,903749,E84545,2B2E4A&locale=pt-br&langs_count=10&layout=compact)
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M4rcus-0&title_color=fff&text_color=fff&hide_border=true&border_radius=5&bg_color=45,D92546,8C1B50,401D36,0A4359,049DBF&locale=pt-br&langs_count=10&layout=compact)
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M4rcus-0&title_color=fff&text_color=fff&hide_border=true&border_radius=5&bg_color=45,F20544,F2055C,023059,03738C,04BFBF&locale=pt-br&langs_count=10&layout=compact)
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M4rcus-0&title_color=fff&text_color=fff&hide_border=true&border_radius=5&bg_color=45,8C0335,26010F,040240,030A8C,020873&locale=pt-br&langs_count=10&layout=compact)
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M4rcus-0&title_color=fff&text_color=fff&hide_border=true&border_radius=5&bg_color=45,730C02,D91604,9BB5BF,51768C,012840&locale=pt-br&langs_count=10&layout=compact)
-
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M4rcus-0&show_icons=true&theme=default&count_private=true&title_color=F2055C&text_color=03738C&icon_color=03738C&border_color=F2055C&border_radius=5&bg_color=141321&locale=en)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M4rcus-0&title_color=F2055C&text_color=03738C&border_color=F2055C&border_radius=5&bg_color=141321&locale=en&langs_count=10&layout=compact)
 </div>
 
 <div align="center">
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=M4rcus-0&hide_border=true&border_radius=5&background=45,53354A,903749,E84545,2B2E4A&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-
-  [![GitHub Streak](https://streak-stats.demolab.com?user=M4rcus-0&hide_border=true&border_radius=5&background=45,D92546,8C1B50,401D36,0A4359,049DBF&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-
-  [![GitHub Streak](https://streak-stats.demolab.com?user=M4rcus-0&hide_border=true&border_radius=5&background=45,F20544,F2055C,023059,03738C,04BFBF&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-
-  [![GitHub Streak](https://streak-stats.demolab.com?user=M4rcus-0&hide_border=true&border_radius=5&background=45,8C0335,26010F,040240,030A8C,020873&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-
-  [![GitHub Streak](https://streak-stats.demolab.com?user=M4rcus-0&hide_border=true&border_radius=5&background=45,730C02,D91604,9BB5BF,51768C,012840&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=M4rcus-0&border=F2055C&stroke=F2055C&ring=F2055C&fire=F2055C&currStreakLabel=F2055C&dates=03738C&currStreakNum=03738C&sideNums=03738C&sideLabels=03738C&border_radius=5&background=141321&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
   
 </div>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=M4rcus-0&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=M4rcus-0&bg_color=141321&color=03738C&radius=10&line=F2055C&point=03738C&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <span align="center"> 
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=M4rcus-0&theme=dracula&row=2&column=3&no-bg=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=M4rcus-0&theme=radical&row=2&column=3&no-bg=true&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 </span>
 
 
@@ -145,12 +103,4 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Merienda&size=20&letterSpacing=0px&duration=3000&color=FFF&center=true&vCenter=true&width=900&lines=Amo+gatos+S2;)](https://git.io/typing-svg)
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:53354A,33:903749,66:E84545,100:2B2E4A&height=150&section=footer)
-  
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:D92546,25:8C1B50,50:401D36,75:0A4359,100:049DBF&height=150&section=footer)
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:F20544,25:F2055C,50:023059,75:03738C,100:04BFBF&height=150&section=footer)
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:8C0335,25:26010F,50:040240,75:030A8C,100:020873&height=150&section=footer)
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:730C02,25:D91604,50:9BB5BF,75:51768C,100:012840&height=150&section=footer)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:F2055C,100:03738C&height=150&section=footer)
