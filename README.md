@@ -35,7 +35,7 @@
 <h2>Minhas Contribuições</h2>
 
 <div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/M4rcus-0/M4rcus-0/output/github-contribution-grid-snake.svg" />
+  ![snake gif](https://github.com/M4rcus-0/M4rcus-0/blob/output/github-contribution-grid-snake.gif)
 <div align="center">
 
 
