@@ -17,9 +17,10 @@
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M4rcus-0&show_icons=true&theme=default&count_private=true&title_color=fff&text_color=fff&icon_color=fff&border_color=000&bg_color=45,000,E00A24,07041E,000&locale=pt-br)
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M4rcus-0&hide_progress=true&title_color=000&text_color=000&border_color=fff&bg_color=45,fff,f72585,4cc9f0,fff&locale=pt-br&langs_count=8&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M4rcus-0&hide_progress=true&title_color=000&text_color=000&border_color=fff&bg_color=45,fff,f72585,4cc9f0,fff&locale=pt-br&langs_count=10&layout=compact)
   
   [![GitHub Streak]("https://github-readme-streak-stats.herokuapp.com/?user=M4rcus-0&")
+  
 </div>
 
 <h2 align="center">Linguagens de Programação</h2>
