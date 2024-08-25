@@ -6,23 +6,21 @@
 <h1 align="center">
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=30&letterSpacing=0px&duration=3000&color=FFF&center=true&vCenter=true&width=900&lines=Hello+world!;I'm+Marcus+Vin%C3%ADcius!;I'm+19+years+old!;Welcome!+I+hope+you+like+it!;%3Ew%3C+S2)](https://git.io/typing-svg)
-</h1>
-
-<h2 align="right">
+  <span>
   
   ![visits](https://visit-counter.vercel.app/counter.png?page=M4rcus-0&s=20&c=903749&bg=00000000&no=5&ff=alien&tb=+visitors%3A+&ta=)  
-</h2>
+  </span>
+</h1>
+
 
 <h2 align="center">Status</h2>
 
-<div align="center">
+<div style="display:flex;justify-content:center;" align="center">
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M4rcus-0&show_icons=true&theme=default&count_private=true&title_color=fff&text_color=fff&icon_color=fff&border_color=000&bg_color=45,000,E00A24,07041E,000&locale=pt-br)
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M4rcus-0&hide_progress=true&title_color=000&text_color=000&border_color=fff&bg_color=45,fff,f72585,4cc9f0,fff&locale=pt-br&langs_count=10&layout=compact)
 
-  
-  
 </div>
 
 <div align="center">
@@ -104,10 +102,6 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/M4rcus-0/M4rcus-0/output/github-contribution-grid-snake.svg" />
 </div>
 
-<h4 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Monospace&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Amo+gatos+S2;" />
-  </a>
-</h4>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Merienda&size=20&letterSpacing=0px&duration=3000&color=FFF&center=true&vCenter=true&width=900&lines=Amo+gatos+S2;)](https://git.io/typing-svg)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=120&section=footer"> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2B2E4A&height=120&section=footer"> 
