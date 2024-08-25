@@ -40,15 +40,15 @@
 
 <h2 align="center">Linguagens de Programação</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,java,javascript,typescript,php,python" />
+    <img src="https://skillicons.dev/icons?i=c,java,javascript,typescript,php,py" />
 </div>
 <!-- c,java,js,ts,php,perl,ruby,python,swift,objectivec,rust -->
 
 <h2 align="center">Desenvolvimento Frontend</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,c,java,php,python,react" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,c,java,php,python,react,wordpress" />
 </div>
-<!-- react,bootstrap,css3,html5,sass,tailwind -->
+<!-- react,bootstrap,css3,html5,sass,tailwind,npm,styledcomponents,yarn,wordpress -->
 
 <h2 align="center">Desenvolvimento Backend</h2>
 <div align="center">
@@ -76,40 +76,20 @@
 
 <h2 align="center">Game Engines</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=unreal,unity" />
+    <img src="https://skillicons.dev/icons?i=unreal,unity,godot" />
 </div>
-<!-- unreal,unity -->
+<!-- unreal,unity,godot -->
 
 <h2 align="center">Outras Ferramentas</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=figma,postman,git,github,arduino,vscode" />
+    <img src="https://skillicons.dev/icons?i=figma,postman,git,github,arduino,vscode,notion" />
 </div>
-<!-- docker,illustrator,photoshop,figma,blender,postman,linux,git,github,arduino,vscode -->
-
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,c,java,php,python,react" />
-    <img src="https://skillicons.dev/icons?i=vscode,github,figma,git,mysql" />
+<!-- docker,illustrator,photoshop,figma,blender,postman,linux,git,github,arduino,vscode,discord,notion,windows -->
 
 <h2>Minhas Contribuições</h2>
 
 <div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/M4rcus-0/M4rcus-0/output/github-contribution-grid-snake.svg" />
 </div>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=M4rcus-0&show_icons=true&locale=en&layout=compact"  />
-</p>
-
-<p>
-  &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=M4rcus-0&show_icons=true&locale=en" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=M4rcus-0&" alt="marcus" />
-</p>
-
-
-
 
 Amo gatos S2
