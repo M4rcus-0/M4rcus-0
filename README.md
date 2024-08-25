@@ -1,28 +1,17 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=120&section=header"> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2B2E4A&height=120&section=header"> 
 <!-- [![MasterHead](https:)](https:) //banner -->
 
-<p align="center"><b>Visitors Count</b></p> 
-  
-<p align="center">
-  <img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FM4rcus-0&s=50&c=db006a&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" />
-</p> 
-<br>
-</div>
-
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=M4rcus-0.M4rcus-0" />
-
-<!-- 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Monospace&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hello+world!;I'm+Marcus+Vinícius+Gomes+dos+Santos!I'm+19+years+old;Welcome+>w<+S2;")
--->
+<!-- cores: 2B2E4A, E84545, 903749, 53354A // 15e5a6, 008080 -->
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Monospace&size=35&center=true&vCenter=true&width=800&height=70&duration=3000&lines=Hello+world!;I'm+Marcus+Vinícius+Gomes+dos+Santos;I'm+19+years+old!;I'm+from+Brazil;Welcome+>w<+S2;">
-  </a>
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=30&letterSpacing=0px&duration=3000&color=FFF&center=true&vCenter=true&width=900&lines=Hello+world!;I'm+Marcus+Vin%C3%ADcius!;I'm+19+years+old!;Welcome!+I+hope+you+like+it!;%3Ew%3C+S2)](https://git.io/typing-svg)
 </h1>
 
-<br>
-<hr>
+<h2 align="right">
+  
+  ![visits](https://visit-counter.vercel.app/counter.png?page=M4rcus-0&s=20&c=903749&bg=00000000&no=5&ff=alien&tb=+visitors%3A+&ta=)  
+</h2>
 
 <h2 align="center">Status</h2>
 
@@ -31,10 +20,16 @@
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M4rcus-0&show_icons=true&theme=default&count_private=true&title_color=fff&text_color=fff&icon_color=fff&border_color=000&bg_color=45,000,E00A24,07041E,000&locale=pt-br)
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M4rcus-0&hide_progress=true&title_color=000&text_color=000&border_color=fff&bg_color=45,fff,f72585,4cc9f0,fff&locale=pt-br&langs_count=10&layout=compact)
+
   
-  ![GitHub Streak]("https://github-readme-streak-stats.herokuapp.com/?user=M4rcus-0&")
   
 </div>
+
+<div align="center">
+
+ ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=M4rcus-0&) 
+</div>
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=M4rcus-0&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
