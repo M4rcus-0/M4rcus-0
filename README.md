@@ -3,7 +3,7 @@
   ![header](https://capsule-render.vercel.app/api?type=waving&color=0:F2055C,100:03738C&height=150&section=header)
 </span>
 
-<!-- [![MasterHead](https:)](https:) //banner -->
+<!-- [![MasterHead](https:)](https:) //banner um gif -->
 
 <span align="center">
   
@@ -92,6 +92,14 @@
     <img src="https://skillicons.dev/icons?i=figma,postman,git,github,arduino,vscode,notion" />
 </div>
 <!-- docker,illustrator,photoshop,figma,blender,postman,linux,git,github,arduino,vscode,discord,notion,windows -->
+
+<!-- 
+| Esquerda       | Centralizado       | Direita       |
+| :------------- | :----------------: | ------------: |
+| Conteúdo 1     | Conteúdo 2          | Conteúdo 3    |
+| Conteúdo 4     | Conteúdo 5          | Conteúdo 6    |
+| Conteúdo 7     | Conteúdo 8          | Conteúdo 9    |
+-->
 
 <h2>Minhas Contribuições</h2>
 
