@@ -1,12 +1,22 @@
 
+<!-- [![MasterHead](https:)](https:) //banner -->
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=M4rcus-0.M4rcus-0" />
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Monospace&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Olá+devs!;Meu+nome+é+Marcus!;Seja+bem-vindo!;S2;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Monospace&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Olá+devs!;Meu+nome+é+Marcus!;Sejam+bem-vindos!;S2;" />
   </a>
 </h1>
 
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=M4rcus-0&label=Profile%20views&color=0e75b6&style=flat" /> 
+</p>
+
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=M4rcus-0" />
+  </a> 
+</p>
 <br>
 <hr>
 
