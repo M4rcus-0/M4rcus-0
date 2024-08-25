@@ -1,7 +1,6 @@
 <span align="center">
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:F2055C,100:03738C&height=150&section=header)
   
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:F2055C,100:03738C&height=150&section=header)
 </span>
 
 <!-- [![MasterHead](https:)](https:) //banner -->
@@ -9,12 +8,11 @@
 <span align="center">
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=30&letterSpacing=0px&duration=3000&color=fff&center=true&vCenter=true&width=900&lines=Hello+world!;I'm+Marcus+Vin%C3%ADcius!;I'm+19+years+old!;Welcome!+I+hope+you+like+it!;%3Ew%3C+S2)](https://git.io/typing-svg)
-  
   ![visits](https://visit-counter.vercel.app/counter.png?page=M4rcus-0&s=20&c=fff&bg=00000000&no=5&ff=alien&tb=+visitors%3A+&ta=)  
   
 </span>
 
-
+<br>
 <h2 align="center">Status</h2>
 
 <div align="center">
@@ -26,12 +24,12 @@
 <div align="center">
 
   [![GitHub Streak](https://streak-stats.demolab.com?user=M4rcus-0&border=F2055C&stroke=F2055C&ring=F2055C&fire=F2055C&currStreakLabel=F2055C&dates=03738C&currStreakNum=03738C&sideNums=03738C&sideLabels=03738C&border_radius=5&background=141321&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-  
 </div>
 
+<br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=M4rcus-0&bg_color=141321&color=03738C&radius=10&line=F2055C&point=03738C&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+<br>
 
 <span align="center"> 
   
