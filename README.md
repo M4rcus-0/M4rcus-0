@@ -2,6 +2,8 @@
 <!-- [![MasterHead](https:)](https:) //banner -->
 
 <!-- cores: 2B2E4A, E84545, 903749, 53354A // 15e5a6, 008080 -->
+<!-- cores: F20544, F2055C, 023059, 03738C, 04BFBF-->
+<!-- cores: 8C0335, 26010F, 040240, 030A8C, 020873-->
 
 <h1 align="center">
   
