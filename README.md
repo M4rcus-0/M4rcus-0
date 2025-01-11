@@ -49,7 +49,7 @@
 
 <h2 align="center">Desenvolvimento Frontend</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,wordpress,styledcomponents" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,wordpress" />
 </div>
 <!-- react,bootstrap,css3,html5,sass,tailwind,npm,styledcomponents,yarn,wordpress -->
 
@@ -75,7 +75,7 @@
 
 <h2 align="center">Banco de dados</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+    <img src="https://skillicons.dev/icons?i=postgres" />
 </div>
 <!-- mongodb,mysql,postgresql,oracle,mariadb -->
 
