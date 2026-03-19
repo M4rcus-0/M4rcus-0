@@ -98,6 +98,4 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/M4rcus-0/M4rcus-0/output/github-contribution-grid-snake.svg" />
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Merienda&size=20&letterSpacing=0px&duration=3000&color=FFF&center=true&vCenter=true&width=900&lines=Amo+gatos+S2;)](https://git.io/typing-svg)
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:F2055C,100:03738C&height=150&section=footer)
