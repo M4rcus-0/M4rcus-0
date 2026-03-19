@@ -3,15 +3,6 @@
   ![header](https://capsule-render.vercel.app/api?type=waving&color=0:F2055C,100:03738C&height=150&section=header)
 </span>
 
-<!-- [![MasterHead](https:)](https:) //banner um gif -->
-
-<span align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=30&letterSpacing=0px&duration=3000&color=fff&center=true&vCenter=true&width=900&lines=Hello+world!;I'm+Marcus+Vin%C3%ADcius!;I'm+19+years+old!;Welcome!+I+hope+you+like+it!;%3Ew%3C+S2)](https://git.io/typing-svg)
-  ![visits](https://visit-counter.vercel.app/counter.png?page=M4rcus-0&s=20&c=fff&bg=00000000&no=5&ff=alien&tb=+visitors%3A+&ta=)  
-  
-</span>
-
 <br>
 <h2 align="center">Status</h2>
 
