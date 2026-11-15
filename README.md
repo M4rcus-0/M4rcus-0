@@ -100,6 +100,7 @@
   ![Sass](https://img.shields.io/badge/sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
   ![Styled Components](https://img.shields.io/badge/styled--components-%23DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white)
   ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+  <!--
   <table>
     <tr align="center">
       <td width="50%" valign="top">
@@ -114,6 +115,7 @@
       </td>
     </tr>
   </table>
+  -->
 </div>
 
 ### Dados & Backend
@@ -127,6 +129,7 @@
   ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
   ![Neo4J](https://img.shields.io/badge/Neo4j-%23008CC1.svg?style=for-the-badge&logo=neo4j&logoColor=white)
+  <!--
   <table>
     <tr align="center">
       <td width="50%" valign="top">
@@ -141,6 +144,7 @@
       </td>
     </tr>
   </table>
+  -->
 </div>
 
 <!--
