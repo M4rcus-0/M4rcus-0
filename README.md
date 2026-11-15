@@ -52,7 +52,7 @@
   </a>
 <br>
   <a href="https://github.com/M4rcus-0">
-    <img height="180" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username&border=F2055C&stroke=F2055C&ring=F2055C&fire=F2055C&currStreakLabel=F2055C&dates=03738C&currStreakNum=03738C&sideNums=03738C&sideLabels=03738C&background=141321&border_radius=5&mode=weekly" alt="GitHub contribution streak"/>
+    <img height="180" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username==M4rcus-0&border=F2055C&stroke=F2055C&ring=F2055C&fire=F2055C&currStreakLabel=F2055C&dates=03738C&currStreakNum=03738C&sideNums=03738C&sideLabels=03738C&background=141321&border_radius=5&mode=weekly" alt="GitHub contribution streak"/>
   </a>
 </div>
 
