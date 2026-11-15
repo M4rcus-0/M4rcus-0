@@ -48,7 +48,7 @@
 ## Estatísticas do GitHub
 <div align="center">
   <a href="https://github.com/M4rcus-0">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=M4rcus-0&show_icons=true&hide_border=false&count_private=true&title_color=F2055C&text_color=03738C&icon_color=03738C&border_color=F2055C&border_radius=5&bg_color=141321&locale=en" alt="Marcus's GitHub statistics"/>
+    <img height="180" src=" https://github-stats-extended.vercel.app/api?username=M4rcus-0&show_icons=true&hide_border=false&count_private=true&title_color=F2055C&text_color=03738C&icon_color=03738C&border_color=F2055C&border_radius=5&bg_color=141321&locale=en" alt="Marcus's GitHub statistics"/>
   </a>
 <br>
   <a href="https://github.com/M4rcus-0">
